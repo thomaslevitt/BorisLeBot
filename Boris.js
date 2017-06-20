@@ -20,4 +20,5 @@ bot.on('message', function(message){
   if(message.content==="!time"){
     message.reply('L\'heure de bien fermer ta gueule !')
   }
+  //Ajouter ici les nouvelles fonctionnalité liés à la reception de messages
 })
