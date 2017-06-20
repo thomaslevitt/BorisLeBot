@@ -18,7 +18,7 @@ bot.on('message', function(message){
     message.reply(reply)
   }
   if(message.content==="!time"){
-    message.reply('L\'heure de  fermer ta gueule !')
+    message.reply('L\'heure de fermer ta gueule !')
   }
   //Ajouter ici les nouvelles fonctionnalité liés à la reception de messages
   // Voici un exemple type
